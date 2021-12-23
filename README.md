@@ -7,3 +7,5 @@ This information is helpful because we could use strategies such as targeted adv
 
 # Model
 For this project, we used the **k-means clustering algorithm**. We decided on grouping the data into *four* clusters based on the inertia and silhouette scores for each number of clusters ranging from 2 to 12.
+
+At the end of the third jupyter notebook, we saved the final dataset with the labels included. This dataset can be explored further using spreadsheets, visualization software, or Python/R.
