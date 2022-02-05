@@ -14,7 +14,7 @@ In the `Modeling` iPython notebook, we saved the final dataset with the labels i
 # Update
 While I was exploring the dataset with Tableau, I realized that groups 1 and 2 seemed quite similar and clusters 0 and 3 were also similar. The only difference between those two subgroups was that one group had children while the other group did not. I believe this is because the Boolean values (`0` and `1`) in the `Has_child` column have a significant effect on the algorithm, therefore also affecting the output.
 
-When I went back to correct the error, I thought about the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) frameword and re-evaluated the columns I should analyze.
+When I went back to correct the error, I thought about the [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) framework and re-evaluated the columns I should analyze.
 
 <br>
 
